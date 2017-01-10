@@ -1,0 +1,1 @@
+Contains preview files generated during training.
